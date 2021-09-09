@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+<!-->GlitterWorlderRace</!-->
+  <FacialAnimation.HeadTypeDef>
+    <defName>GlitterWorlderFHead</defName>
+    <texPath>Things/GlitterWorlderRace/Heads_Blank/NormalF</texPath>
+	<gender>Female</gender>
+    <shader>Map/Transparent</shader>
+	<raceName>GlitterWorlderRace</raceName>
+  </FacialAnimation.HeadTypeDef>
+  
+    <FacialAnimation.HeadTypeDef>
+    <defName>GlitterWorlderMHead</defName>
+    <texPath>Things/GlitterWorlderRace/Heads_Blank/NormalM</texPath>
+	<gender>Male</gender>
+    <shader>Map/Transparent</shader>
+	<raceName>GlitterWorlderRace</raceName>
+  </FacialAnimation.HeadTypeDef>
+<!-->HighGravWorlderRace
+  <FacialAnimation.HeadTypeDef>
+    <defName>CervinemorphFHead</defName>
+    <texPath>Things/Pawn/XenohumanAnthro/Cervinemorph/Heads_Blank/NormalF</texPath>
+	<gender>Female</gender>
+    <shader>Map/CutoutComplex</shader>
+	<raceName>ATK_Cervinemorph</raceName>
+  </FacialAnimation.HeadTypeDef>
+  
+    <FacialAnimation.HeadTypeDef>
+    <defName>CervinemorphMHead</defName>
+    <texPath>Things/Pawn/XenohumanAnthro/Cervinemorph/Heads_Blank/NormalM</texPath>
+	<gender>Male</gender>
+    <shader>Map/CutoutComplex</shader>
+	<raceName>ATK_Cervinemorph</raceName>
+  </FacialAnimation.HeadTypeDef></!-->
+<!-->LowGravWorlderRace
+  <FacialAnimation.HeadTypeDef>
+    <defName>DragomorphFHead</defName>
+    <texPath>Things/Pawn/XenohumanAnthro/Dragomorph/Heads_Blank/NormalF</texPath>
+	<gender>Female</gender>
+    <shader>Map/Transparent</shader>
+	<raceName>ATK_Dragomorph</raceName>
+  </FacialAnimation.HeadTypeDef>
+  
+    <FacialAnimation.HeadTypeDef>
+    <defName>DragomorphMHead</defName>
+    <texPath>Things/Pawn/XenohumanAnthro/Dragomorph/Heads_Blank/NormalM</texPath>
+	<gender>Male</gender>
+    <shader>Map/Transparent</shader>
+	<raceName>ATK_Dragomorph</raceName>
+  </FacialAnimation.HeadTypeDef></!-->
+<!-->RadWorlderRace</!-->
+  <FacialAnimation.HeadTypeDef>
+    <defName>RadWorlderRaceFHead</defName>
+    <texPath>Things/RadWorlderRace/Heads_Blank/NormalF</texPath>
+	<gender>Female</gender>
+    <shader>Map/Transparent</shader>
+	<raceName>RadWorlderRace</raceName>
+  </FacialAnimation.HeadTypeDef>
+  
+    <FacialAnimation.HeadTypeDef>
+    <defName>RadWorlderRaceMHead</defName>
+    <texPath>Things/RadWorlderRace/Heads_Blank/NormalM</texPath>
+	<gender>Male</gender>
+    <shader>Map/Transparent</shader>
+	<raceName>RadWorlderRace</raceName>
+  </FacialAnimation.HeadTypeDef>
+<!-->VatgrownHumanRace
+  <FacialAnimation.HeadTypeDef>
+    <defName>LagomorphFHead</defName>
+    <texPath>Things/Pawn/XenohumanAnthro/Lagomorph/Heads_Blank/NormalF</texPath>
+	<gender>Female</gender>
+    <shader>Map/Transparent</shader>
+	<raceName>ATK_Lagomorph</raceName>
+  </FacialAnimation.HeadTypeDef>
+  
+    <FacialAnimation.HeadTypeDef>
+    <defName>LagomorphMHead</defName>
+    <texPath>Things/Pawn/XenohumanAnthro/Lagomorph/Heads_Blank/NormalM</texPath>
+	<gender>Male</gender>
+    <shader>Map/Transparent</shader>
+	<raceName>ATK_Lagomorph</raceName>
+  </FacialAnimation.HeadTypeDef></!-->
+ 
+  
+</Defs>

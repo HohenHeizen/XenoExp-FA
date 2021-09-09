@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Xenohuman Expanded [Facial Animation Patch]</name>
+	<author>HohenHeizen</author>
+	<supportedVersions>
+		<li>1.3</li>
+	</supportedVersions>
+	<packageId>HH.XenohumanExpanded.FA</packageId>
+	<modDependencies>
+		<li>
+			<packageId>Nals.FacialAnimation</packageId>
+			<displayName>[NL] Facial Animation - WIP</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1635901197</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>ILuvSilicon.XenohumansExpanded</packageId>
+			<displayName>Xenohumans Expanded</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2577842986</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>erdelf.HumanoidAlienRaces</li>
+		<li>Nals.FacialAnimation</li>
+		<li>ILuvSilicon.XenohumansExpanded</li>
+	</loadAfter>
+	<description><![CDATA[  
+Facial Animation Patches for Xenohuman Expanded a mod by ILuvSilicon and SirLalaPy. Based on facial animation patches done by Roboslob. 
+
+I plan to go through and upsize the heads, so there's that.
+---
+Contains
+• Glitterworlder
+• Lo-Gravver
+• Vatdrone
+• Gravity dwarf
+• Radworlder
+
+Version <color=#FFD800>1.0.0</color>]]>
+	</description>
+</ModMetaData>
