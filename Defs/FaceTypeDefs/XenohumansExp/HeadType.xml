@@ -4,7 +4,7 @@
 <!-->GlitterWorlderRace</!-->
   <FacialAnimation.HeadTypeDef>
     <defName>GlitterWorlderFHead</defName>
-    <texPath>Things/Pawn/XenohumanExp/GlitterWorlderRace/Heads_Blank/NormalF</texPath>
+    <texPath>Things/Pawn/XenohumanExp/GlitterWorlderRace/Heads_Blank</texPath>
 	<gender>Female</gender>
     <shader>Map/Transparent</shader>
 	<raceName>GlitterWorlderRace</raceName>
@@ -12,7 +12,7 @@
   
     <FacialAnimation.HeadTypeDef>
     <defName>GlitterWorlderMHead</defName>
-    <texPath>Things/Pawn/XenohumanExp/GlitterWorlderRace/Heads_Blank/NormalM</texPath>
+    <texPath>Things/Pawn/XenohumanExp/GlitterWorlderRace/Heads_Blank</texPath>
 	<gender>Male</gender>
     <shader>Map/Transparent</shader>
 	<raceName>GlitterWorlderRace</raceName>
