@@ -4,7 +4,7 @@
 <!-->GlitterWorlderRace</!-->
   <FacialAnimation.HeadTypeDef>
     <defName>GlitterWorlderFHead</defName>
-    <texPath>Things/GlitterWorlderRace/Heads_Blank/NormalF</texPath>
+    <texPath>Things/Pawn/XenohumanExp/GlitterWorlderRace/Heads_Blank/NormalF</texPath>
 	<gender>Female</gender>
     <shader>Map/Transparent</shader>
 	<raceName>GlitterWorlderRace</raceName>
@@ -12,7 +12,7 @@
   
     <FacialAnimation.HeadTypeDef>
     <defName>GlitterWorlderMHead</defName>
-    <texPath>Things/GlitterWorlderRace/Heads_Blank/NormalM</texPath>
+    <texPath>Things/Pawn/XenohumanExp/GlitterWorlderRace/Heads_Blank/NormalM</texPath>
 	<gender>Male</gender>
     <shader>Map/Transparent</shader>
 	<raceName>GlitterWorlderRace</raceName>
@@ -52,7 +52,7 @@
 <!-->RadWorlderRace</!-->
   <FacialAnimation.HeadTypeDef>
     <defName>RadWorlderRaceFHead</defName>
-    <texPath>Things/RadWorlderRace/Heads_Blank/NormalF</texPath>
+    <texPath>Things/Pawn/XenohumanExp/RadWorlderRace/Heads_Blank/NormalF</texPath>
 	<gender>Female</gender>
     <shader>Map/Transparent</shader>
 	<raceName>RadWorlderRace</raceName>
@@ -60,7 +60,7 @@
   
     <FacialAnimation.HeadTypeDef>
     <defName>RadWorlderRaceMHead</defName>
-    <texPath>Things/RadWorlderRace/Heads_Blank/NormalM</texPath>
+    <texPath>Things/Pawn/XenohumanExp/RadWorlderRace/Heads_Blank/NormalM</texPath>
 	<gender>Male</gender>
     <shader>Map/Transparent</shader>
 	<raceName>RadWorlderRace</raceName>
