@@ -24,17 +24,21 @@
 		<li>ILuvSilicon.XenohumansExpanded</li>
 	</loadAfter>
 	<description><![CDATA[  
-Facial Animation Patches for Xenohuman Expanded a mod by ILuvSilicon and SirLalaPy. Based on facial animation patches done by Roboslob. 
+Patches for Facial Animations by Nals for Xenohuman Expanded, a mod by ILuvSilicon and SirLalaPy. 
 
-To Do: Redo Radworlder heads, currently 2x upscales
+Includes custom heads for Glitterworlder & Radworlder!!
+
 ---
-Contains
+Contains:
 • Glitterworlder
 • Lo-Gravver
 • Vatdrone
 • Gravity dwarf
 • Radworlder
 
-Version <color=#FFD800>1.1.0</color>]]>
+Todo:
+More custom heads? Hm.
+
+Version <color=#FFD800>1.1.5</color>]]>
 	</description>
 </ModMetaData>

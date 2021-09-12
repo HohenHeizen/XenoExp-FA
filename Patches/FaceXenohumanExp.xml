@@ -664,9 +664,7 @@
 				<li>
 					<compClass>FacialAnimation.LidControllerComp</compClass>
 				</li>
-				<li>
-					<compClass>FacialAnimation.BrowControllerComp</compClass>
-				</li>
+	
 				<li>
 					<compClass>FacialAnimation.MouthControllerComp</compClass>
 				</li>
@@ -691,9 +689,7 @@
 			<li>
 				<compClass>FacialAnimation.LidControllerComp</compClass>
 			</li>
-			<li>
-				<compClass>FacialAnimation.BrowControllerComp</compClass>
-			</li>
+
 			<li>
 				<compClass>FacialAnimation.MouthControllerComp</compClass>
 			</li>
