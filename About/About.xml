@@ -5,7 +5,7 @@
 	<supportedVersions>
 		<li>1.3</li>
 	</supportedVersions>
-	<packageId>HH.XenohumanExpanded.FA</packageId>
+	<packageId>HH.XenohumanExpanded.FAP</packageId>
 	<modDependencies>
 		<li>
 			<packageId>Nals.FacialAnimation</packageId>
@@ -24,10 +24,7 @@
 		<li>ILuvSilicon.XenohumansExpanded</li>
 	</loadAfter>
 	<description><![CDATA[  
-Patches for Facial Animations by Nals for Xenohuman Expanded, a mod by ILuvSilicon and SirLalaPy. 
-
-Includes custom heads for Glitterworlder & Radworlder!!
-
+Patch to add Facial Animation support to Xenohuman Expanded.
 ---
 Contains:
 • Glitterworlder
